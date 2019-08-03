@@ -1,0 +1,43 @@
+import ./common.chatito
+
+# Ways to request a restaurant within a location (using probability operator)
+# NOTE: 60% of the examples should come from the first sentence, and 40% from the second
+
+%[findFlight]('training': '100', 'testing': '100')
+    *[60%] ~[hi?] ~[please?] ~[find?] ~[flight] ~[from] @[departure] ~[departure?] ~[to] @[destination] ~[destination?] ~[thanks?]
+    *[40%] ~[flights] ~[destination to] @[destination] ~[destination?]
+
+@[departure]
+    ~[new york]
+    ~[san francisco]
+    ~[atlanta]
+    ~[port louis]
+    ~[paris]
+    ~[thaiwan]
+    ~[india]
+
+@[destination]
+    ~[new york]
+    ~[san francisco]
+    ~[atlanta]
+    ~[port louis]
+    ~[paris]
+    ~[thaiwan]
+    ~[india]
+
+~[find]
+    find
+    look for
+    search for
+    help me find
+
+~[destination to]
+    destination to
+    in the area of
+    near by
+    go to
+    land to
+
+~[flights]
+    flight
+    plane
