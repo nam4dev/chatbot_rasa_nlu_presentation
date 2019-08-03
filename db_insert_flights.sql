@@ -1,0 +1,10 @@
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (1, 'taiwan', 500, 'air taiwan');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (2, 'thailand', 700, 'air asia');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (3, 'california', 600, 'air america');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (4, 'paris', 1200, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (5, 'paris', 990, 'air italia');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (6, 'paris', 1080, 'lufthansa');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (7, 'mauritius', 1190, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (8, 'mauritius', 1280, 'air mauritius');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (9, 'india', 599, 'air india');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (10, 'india', 629, 'air mauritius');
