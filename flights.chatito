@@ -9,6 +9,7 @@ import ./common.chatito
 
 @[departure]
     ~[new york]
+    ~[california]
     ~[san francisco]
     ~[atlanta]
     ~[port louis]
@@ -18,6 +19,7 @@ import ./common.chatito
 
 @[destination]
     ~[new york]
+    ~[california]
     ~[san francisco]
     ~[atlanta]
     ~[port louis]
