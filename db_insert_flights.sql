@@ -6,5 +6,16 @@ INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (5, 'pari
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (6, 'paris', 1080, 'lufthansa');
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (7, 'mauritius', 1190, 'air france');
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (8, 'mauritius', 1280, 'air mauritius');
-INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (9, 'india', 599, 'air india');
-INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (10, 'india', 629, 'air mauritius');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (9, 'mumbai', 599, 'air india');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (10, 'toulouse', 889, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (11, 'lyon', 845, 'condor');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (12, 'berlin', 709, 'lufthansa');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (13, 'rome', 729, 'air italia');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (14, 'rome', 699, 'air mauritius');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (15, 'madrid', 689, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (16, 'johannesbourg', 529, 'air mauritius');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (17, 'johannesbourg', 579, 'air africa');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (18, 'antananarivo', 429, 'air madagascar');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (19, 'antananarivo', 459, 'air austral');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (20, 'new delhi', 629, 'air india');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (21, 'new delhi', 639, 'air france');
