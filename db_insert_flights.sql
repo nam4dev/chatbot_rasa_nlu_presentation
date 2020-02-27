@@ -19,3 +19,12 @@ INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (18, 'ant
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (19, 'antananarivo', 459, 'air austral');
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (20, 'new delhi', 629, 'air india');
 INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (21, 'new delhi', 639, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (22, 'newyork', 989, 'air america');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (23, 'newyork', 889, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (24, 'newyork', 1029, 'air quatar');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (25, 'atlanta', 1129, 'air america');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (26, 'san francisco', 1129, 'air america');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (27, 'san francisco', 1019, 'air quatar');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (28, 'san francisco', 929, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (29, 'port louis', 1190, 'air france');
+INSERT OR IGNORE INTO flights (pk, destination, price, company) VALUES (30, 'port louis', 1280, 'air mauritius');
