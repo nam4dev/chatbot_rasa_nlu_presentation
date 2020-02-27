@@ -1,6 +1,6 @@
 import ./common.chatito
 
-# Ways to request a restaurant within a location (using probability operator)
+# Ways to request a flight within a location (using probability operator)
 # NOTE: 60% of the examples should come from the first sentence, and 40% from the second
 
 %[findFlight]('training': '100', 'testing': '100')
@@ -15,7 +15,17 @@ import ./common.chatito
     ~[port louis]
     ~[paris]
     ~[thaiwan]
-    ~[india]
+    ~[mumbai]
+    ~[new delhi]
+    ~[rome]
+    ~[lyon]
+    ~[toulouse]
+    ~[thailand]
+    ~[berlin]
+    ~[madrid]
+    ~[johannesbourg]
+    ~[antananarivo]
+    ~[mauritius]
 
 @[destination]
     ~[new york]
@@ -25,7 +35,17 @@ import ./common.chatito
     ~[port louis]
     ~[paris]
     ~[thaiwan]
-    ~[india]
+    ~[mumbai]
+    ~[new delhi]
+    ~[rome]
+    ~[lyon]
+    ~[toulouse]
+    ~[thailand]
+    ~[berlin]
+    ~[madrid]
+    ~[johannesbourg]
+    ~[antananarivo]
+    ~[mauritius]
 
 ~[find]
     find
